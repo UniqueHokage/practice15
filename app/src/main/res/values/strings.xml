@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">practice15</string>
+    <string name="vvdan">Введите данные</string>
+    <string name="poroda">Порода</string>
+    <string name="data">Дата рождения</string>
+    <string name="btt">Отправить</string>
+    <string name="vvdan2">Ваши данные</string>
+    <string name="btt2">Ок</string>
+</resources>
